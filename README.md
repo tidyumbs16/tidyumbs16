@@ -10,9 +10,9 @@
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-👀 I am interested in learning and pursuing a career in UX/UI, Web Development, Front-end, and Web Design in order to enhance my professional skills.
+👀 I am interested in learning and pursuing a career in UX/UI, Web Development, Front-end, and Figma in order to enhance my professional skills.
  
-🌱 I’m currently learning ...
+🌱 I’m currently learning "UX/UI design, website development, front-end development, and Figma to enhance my professional skills."
 
 💞️ I’m looking to collaborate on ...
 
