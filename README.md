@@ -1,14 +1,14 @@
-- 👋 # Hi, I’m Tawan (@tidyyumbs16)
+- 👋 # Hi, I’m @tidyyumbs16
 - <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+    <p>Hi,Tawan Deemeesri.</p>
 </div>
-- 👀 I’m interested in ...
+- 👀 I am interested in learning and pursuing a career in UX/UI, Web Development, Front-end, and Web Design in order to enhance my professional skills.
 - 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me [email](mailto📧deemeesri456@gmail.com)
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 
