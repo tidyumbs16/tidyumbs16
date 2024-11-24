@@ -14,7 +14,7 @@
  
 🌱 I’m currently learning "UX/UI design, website development, front-end development, and Figma to enhance my professional skills."
 
-💞️ I’m looking to collaborate on ...
+💞️ I am looking for experiences to develop and improve my weaknesses, level by level.
 
 📫 How to reach me 📧deemeesri456@gmail.com
 
