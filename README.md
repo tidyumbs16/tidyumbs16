@@ -1,5 +1,5 @@
-- 👋 # Hi, I’m @tidyyumbs16
-- <div align="center">
+👋 # Hi, I’m @tidyyumbs16
+  <div align="center">
     <h2>🚀 About Me</h2>
     <p>Hi,Tawan Deemeesri.</p>
 </div>
