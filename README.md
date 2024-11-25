@@ -3,7 +3,9 @@
     <h2>🚀 About Me</h2>
     <p>Hi,Tawan Deemeesri.</p>
     <p>Age:20</p>
-    Nickname: Num
+     <p>BirthDay: 16.03.2004</p>
+    <p>Nickname: Num</p>
+    <p>Studying at Rajamangala University of Technology Phra Nakhon Faculty of Science and Technology Computer Science </p>
 </div>
 <div  id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -16,7 +18,7 @@
 
 💞️ I am looking for experiences to develop and improve my weaknesses, level by level.
 
-📫 How to reach me 📧deemeesri456@gmail.com
+📫 How to reach me 📧deemeesri456@gmail.com or 090-215-8179
 
 😄 Pronouns: He/Him
 
