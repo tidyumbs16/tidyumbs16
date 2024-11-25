@@ -7,7 +7,6 @@ Student
 I am interested in learning and pursuing a career in UX/UI, Web Development, Front-end in order to enhance my professional skills.
 
 * 🌍  I'm based in Bangkok , Thailand
-* 🖥️  See my portfolio at [My port](http://https://www.figma.com/@tidyums)
 * ✉️  You can contact me at [deemeesri456@gmail.com](mailto:deemeesri456@gmail.com)
 * 🧠  I'm learning I'm currently learning UX/UI design and learning web development and front-end technologies.
 * ⚡  I enjoy designing and creating various types of websites and love experimenting with new technologies and design trends.
