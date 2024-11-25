@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student
 -------
+Studying at Rajamangala University of Technology Phra Nakhon Faculty of Science and Technology Computer Science
+-------
 
 I am interested in learning and pursuing a career in UX/UI, Web Development, Front-end in order to enhance my professional skills.
 
