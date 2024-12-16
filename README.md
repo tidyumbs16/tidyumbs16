@@ -9,7 +9,7 @@ Studying at Rajamangala University of Technology Phra Nakhon Faculty of Science 
 I am interested in learning and pursuing a career in UX/UI, Web Development, Front-end in order to enhance my professional skills.
 
 * 🌍  I'm based in Bangkok , Thailand
-* ✉️  You can contact me at [deemeesri456@gmail.com](mailto:deemeesri456@gmail.com)
+* ✉️  You can contact me at [deemeesri456@gmail.com](mailto:tidyumbs112@gmail.com)
 * 🧠  I'm learning I'm currently learning UX/UI design and learning web development and front-end technologies.
 * ⚡  I enjoy designing and creating various types of websites and love experimenting with new technologies and design trends.
 
