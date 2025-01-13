@@ -6,7 +6,7 @@ JUNIOR
 Studying at Rajamangala University of Technology Phra Nakhon Faculty of Science and Technology Computer Science
 -------
 
-I am interested in learning and pursuing a career in Network Engineer, Web Development  in order to enhance my professional skills.
+I am interested in learning and pursuing a career in Network Engineer, Web Development, System Engineer  in order to enhance my professional skills.
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at [tawan-de@rmutp.ac.th](mailto:tawan-de@rmutp.ac.th)
