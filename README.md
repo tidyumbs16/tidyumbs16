@@ -9,9 +9,9 @@ Studying at Rajamangala University of Technology Phra Nakhon Faculty of Science 
 I am interested in learning and pursuing a career in UX/UI, Web Development, Front-end in order to enhance my professional skills.
 
 * 🌍  I'm based in Bangkok , Thailand
-* ✉️  You can contact me at [tidyumbs112@gmail.com](mailto:tidyumbs112@gmail.com)
+* ✉️  You can contact me at [tawan-de@rmutp.ac.th](mailto:tidyumbs112@gmail.com)
 * 🧠  I'm learning  learning  about Network Engineer , IT Support , System Engineer
-* ⚡  I enjoy designing and creating various types of websites and love experimenting with new technologies and design trends.
+* ⚡ I enjoy designing and building different types of websites in my spare time and love experimenting with new technology. Including wanting to study areas related to Network Engineer.
 
 ### Skills
 
