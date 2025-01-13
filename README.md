@@ -10,7 +10,7 @@ I am interested in learning and pursuing a career in UX/UI, Web Development, Fro
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at [tidyumbs112@gmail.com](mailto:tidyumbs112@gmail.com)
-* 🧠  I'm learning I'm currently learning UX/UI design and learning web development and front-end technologies.
+* 🧠  I'm learning  learning  about Network Engineer , IT Support , System Engineer
 * ⚡  I enjoy designing and creating various types of websites and love experimenting with new technologies and design trends.
 
 ### Skills
